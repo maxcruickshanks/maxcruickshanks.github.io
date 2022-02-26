@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/maxcruickshanks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maxcruickshanks.site
+  * I am maxcruickshanks (https://keybase.io/maxcruickshanks) on keybase.
+  * I have a public key with fingerprint 3FEC D8ED 7B92 310D F9A3  83F0 9EB9 1857 36D9 48E1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e66889cf3e6bb12bf3e3b6d3395efdf74b5b4657dd41041b10499ca689d3cf670a",
+      "fingerprint": "3fecd8ed7b92310df9a383f09eb9185736d948e1",
+      "host": "keybase.io",
+      "key_id": "9eb9185736d948e1",
+      "kid": "0101e66889cf3e6bb12bf3e3b6d3395efdf74b5b4657dd41041b10499ca689d3cf670a",
+      "uid": "7f8ae9b5bde4063fdcf9c308436b0119",
+      "username": "maxcruickshanks"
+    },
+    "merkle_root": {
+      "ctime": 1645902320,
+      "hash_meta": "a8b525a971ae87cd574716bde18dbe3de18390a9badc6db051b2195869b74cfb",
+      "seqno": 21962722
+    },
+    "revoke": {
+      "sig_ids": [
+        "20c6e92ac7b59ea38383eefc03d4a60dfa8aae3be36455c776793c2007aa0bdd0f"
+      ]
+    },
+    "service": {
+      "hostname": "maxcruickshanks.site",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1645902332,
+  "expire_in": 157680000,
+  "prev": "0ae4086e5b6d5267a704985cfa4fc44841915d21768fb032a128d0bd400d1070",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMKzAnicrVNdaFxFGN2tbVJXKpZSkCBSL1SkCen83PnbB/ElsTWKXbEF09Zl/m72
+utm96713NxtqRCS1iP+l2NA+BKSJaKEibdSaYNMggoiCUhqfirWC1BrTPgqhdW5Q
+BOmj8zBz73C+8505Z+bLDXfkCvlrk7U3l27kJ/LfLLzSzKmu0ZUDnorMqFc84FXt
+6mKHjU3ScjU0XtEDEEBLKedCB9hSpSBS7gMrajAWxAYmYL4iyqeEGeND4EPlJiG0
+pFwYrAPKgPR6vCCsD9m4EYf11NHiwGrDrWFKIAyBCYTEHAdAWCUgJwxTI3xuoSus
+RElW4cQpmdjeMHJ77qe8Ku82+P9Zd3OVjgVcWuHwxvqA4sDoQGgMuI+pAhCKDJjY
+uC5r1qFrsq3jZqirSUXWq4k31uPVbFwdtuU4itLMY52GGRJSnwiAMALunDKplGs2
+lY5AckUQkYJBaTnThjCfQeqaQ26UxdmKBZBCSaOpUYBAhaAgnArFfB0oJyexz9cj
+r+i2KWIIOQmxbUVVm3VPwiFnX+IV93oIaGoFkpopImwWAsfWBhpg40vqgpFcSmeb
+xU4q0YxRJrBGADApgTIGBN7+saxb3Ar1KnmW1+196E3C1DppjThKIx0NO0QlTRtJ
+MTMoHW1kJSNWlf8mK6uwbtytcRUtGydhVHeGOeR/vMOox7PtRhjbcpghCKMcuJH1
+sa3sKkiXGaeWuOwJokwylzMnOpB+oH2f+1BAYhB0dYECGEmIuHFn8wEwEDDwr5mQ
+OJ1yyHE6B+sybcbWG1uY37c2ly/kOtatyZ5TrnDnPf88sm2/dt56uvHMpQ+Wfpx5
+bKJ7/J09bHDn9PK5tbPt8S1n7pt89sr14EX6aP/Lv6HB0+tK6PuOV9fPlubCo5vu
+LV4+9dDhjm3XwfDVxRV4aHEibJ9bLk2vvH+2WU42PtD8ord1Zc3CxsLFzp8GSrv6
+J8Mb7/3w7hE6FZEdheP665O3upYvMHL0+Nzi7kc+/n375ZsX2jNn4V0v+PN9c98d
+HBiBTXJTPVza3b343OY/HoedT6GZB/vn94ydOHLsDdy3/4lrh7d+1dW41OyfKh0a
+f+vbLVMdr514/cPZys+57eHb+pPJqx/trH32y8jAeRDc3z659Omxi3/umM8/md69
+fgPcPPjSzOd9U93TB8d3bf0LVYqHrg==
+=ElwA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maxcruickshanks
+
+==================================================================

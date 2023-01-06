@@ -68,6 +68,16 @@ hr
 	color: rgba(255, 100, 70, 100%);
 }
 
+.highlight:link
+{
+	color: rgba(255, 100, 70, 100%);
+}
+
+.highlight:visited
+{
+	color: rgba(255, 100, 70, 100%);
+}
+
 .main
 {
 	margin-left: 10%;

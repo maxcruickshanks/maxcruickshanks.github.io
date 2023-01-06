@@ -18,11 +18,13 @@ a
 
 a:link
 {
+	color: rgba(0, 0, 0, 100%);
 	text-decoration: none;
 }
 
 a:visited
 {
+	color: rgba(0, 0, 0, 100%);
 	text-decoration: none;
 }
 
@@ -31,7 +33,6 @@ a:hover
 	text-decoration: none;
 	color: rgba(215, 60, 30, 100%);
 }
-
 
 header .buttons
 {

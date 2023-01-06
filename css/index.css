@@ -125,6 +125,12 @@ html, body
 	color: rgba(255, 100, 70, 100%);
 }
 
+.link:visited
+{
+	text-transform:none;
+	color: rgba(255, 100, 70, 100%);
+}
+
 .link:hover
 {
 	color: rgba(255, 0, 0, 100%);

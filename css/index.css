@@ -11,19 +11,15 @@ header
 
 a
 {
-	transition: color .3s
+	transition: color .3s;
+	text-decoration: none;
 }
 
 a:hover
 {
-	text-decoration: none;
 	color: 	rgba(215, 60, 30, 100%);
 }
 
-a:used
-{
-	text-decoration: none
-}
 
 header .buttons
 {

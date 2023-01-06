@@ -155,7 +155,8 @@ html, body
 .project 
 {
 	border: 1px solid rgba(200, 200, 200, 100%);
-	border-radius: 5px
+	border-radius: 5px;
+	overflow: hidden;
 }
 
 .project-preview

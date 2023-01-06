@@ -200,7 +200,7 @@ html, body
 	color: rgba(0, 0, 0, 100%);
 }
 
-.project-description a:hover
+.project-description:hover
 {
 	text-decoration: none;
 }
@@ -212,7 +212,7 @@ html, body
 	color: rgba(0, 0, 0, 100%);
 }
 
-.project-title a:hover
+.project-title:hover
 {
 	text-decoration: none;
 }

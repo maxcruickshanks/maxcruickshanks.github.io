@@ -20,6 +20,11 @@ a:hover
 	color: 	rgba(215, 60, 30, 100%);
 }
 
+a:used
+{
+	text-decoration: none
+}
+
 header .buttons
 {
 	padding: 0px;
@@ -196,14 +201,8 @@ html, body
 	padding-left: 12px;
 }
 
-.project-description:hover
-{
-	text-decoration: none;
-}
-
 .project-title
 {
 	font-size: 18px;
 	font-weight: 700;
-	color: rgba(0, 0, 0, 100%);
 }

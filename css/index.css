@@ -9,6 +9,17 @@ header
 	height: 20px;
 }
 
+a
+{
+	text-decoration: none;
+	transition: color .3s
+}
+
+a:hover
+{
+	color: 	rgba(255, 80, 50, 100%);
+}
+
 header .buttons
 {
 	padding: 0px;
@@ -210,9 +221,4 @@ html, body
 	font-size: 18px;
 	font-weight: 1000;
 	color: rgba(0, 0, 0, 100%);
-}
-
-.project-title:hover
-{
-	text-decoration: none;
 }

@@ -190,3 +190,9 @@ html, body
 	text-decoration: none
 	color: rgba(0, 0, 0, 100%)
 }
+
+.project-title
+{
+	font-size: 18px
+	color: rgba(0, 0, 0, 100%)
+}

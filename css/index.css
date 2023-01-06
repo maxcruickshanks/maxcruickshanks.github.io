@@ -49,23 +49,6 @@ hr
 	color: rgba(255, 100, 70, 100%);
 }
 
-.highlight:hover
-{
-	text-decoration: underline;
-	color: rgba(255, 100, 70, 100%);
-}
-
-.blink
-{
-	color: rgba(0, 0, 0, 100%);
-}
-
-.blink:hover
-{
-	text-decoration: underline;
-	color: rgba(255, 100, 70, 100%);
-}
-
 .main
 {
 	margin-left: 10%;

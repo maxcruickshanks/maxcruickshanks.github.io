@@ -29,7 +29,7 @@ a:visited
 a:hover
 {
 	text-decoration: none;
-	color: 	rgba(215, 60, 30, 100%);
+	color: rgba(215, 60, 30, 100%);
 }
 
 
@@ -179,6 +179,12 @@ html, body
 	height: 325px;
 	width: 300px;
 	padding: 16px;
+}
+
+.project:hover {
+	box-shadow: 0px 0px 5px 0px rgba(215, 60, 30, 100%);
+	border-color: rgba(215, 60, 30, 100%);;
+	transition: 0.3s;
 }
 
 .project-preview

@@ -56,6 +56,11 @@ hr
 	font-size: 20px;
 }
 
+.blink
+{
+	color: rgba(0, 0, 0, 100%);
+}
+
 .highlight
 {
 	color: rgba(255, 100, 70, 100%);

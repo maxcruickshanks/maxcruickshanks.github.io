@@ -194,7 +194,13 @@ html, body
 .project-description
 {
 	text-decoration: none;
+	font-size: 10px;
 	color: rgba(0, 0, 0, 100%);
+}
+
+.project-description a:hover
+{
+	text-decoration: none;
 }
 
 .project-title
@@ -202,4 +208,9 @@ html, body
 	font-size: 18px;
 	font-weight: 600;
 	color: rgba(0, 0, 0, 100%);
+}
+
+.project-title a:hover
+{
+	text-decoration: none;
 }

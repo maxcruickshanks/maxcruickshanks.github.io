@@ -11,7 +11,6 @@ header
 
 a
 {
-	border: 10px groove rgba(0, 0, 0, 0);
 	color: rgba(0, 0, 0, 100%);
 	transition: color .3s;
 	text-decoration: none;
@@ -192,6 +191,7 @@ html, body
 	height: 300px;
 	width: 300px;
 	padding: 16px;
+	margin: 6px;
 }
 
 .project:hover {

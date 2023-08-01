@@ -107,6 +107,11 @@ footer
 	bottom: 0;
 }
 
+ul 
+{
+	margin: 0px 0px 0px 0px!important;
+}
+
 footer .copyright 
 {
 	padding: 10px;
